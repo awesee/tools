@@ -21,7 +21,7 @@
 
 ## 优秀App
   - [Postman:](https://www.getpostman.com/){:target="_blank"} Developing APIs is hard, Postman makes it easy.
-  - [The Omni Group:](){:target="_blank"} Developing applications exclusively for Mac, iPad, and iPhone.
+  - [The Omni Group:](https://www.omnigroup.com/){:target="_blank"} Developing applications exclusively for Mac, iPad, and iPhone.
   - [Cmder:](http://cmder.net/){:target="_blank"} Portable console emulator for Windows
 
   - [更多优秀App](http://openset.wang/Best-App/){:target="_blank"}
