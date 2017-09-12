@@ -26,6 +26,14 @@
   - [HackerRank:](https://www.hackerrank.com/dashboard/) Practice coding.
   - [HackerEarth:](https://www.hackerearth.com/) Programming Tutorials and Practice Problems
 
+## 科学上网
+  - [Surge:](https://github.com/huanz/surge-hosts) hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
+  - [Lantern:](https://github.com/getlantern/lantern) 蓝灯
+  - [Firefly:](https://github.com/yinghuocho/firefly-proxy) 萤火虫
+  - [PandaDNS:](http://dns.sspanda.com/) 公共DNS: 115.159.157.26 学者DNS: 115.159.158.38
+  - [XX-Net:](https://github.com/XX-net/XX-Net) XX-Net is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions.
+  - [fangqiang:](https://github.com/bannedbook/fanqiang/wiki)
+  
 ## 优秀App
   - [Postman:](https://www.getpostman.com/) Developing APIs is hard, Postman makes it easy.
   - [The Omni Group:](https://www.omnigroup.com/) Developing applications exclusively for Mac, iPad, and iPhone.
