@@ -26,6 +26,14 @@
   - [HackerRank:](https://www.hackerrank.com/dashboard/){:target="_blank"} Practice coding.
   - [HackerEarth:](https://www.hackerearth.com/){:target="_blank"} Programming Tutorials and Practice Problems.
 
+## 科学上网
+  - [Surge:](https://github.com/huanz/surge-hosts){:target="_blank"} hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
+  - [Lantern:](https://github.com/getlantern/lantern){:target="_blank"} 蓝灯
+  - [Firefly:](https://github.com/yinghuocho/firefly-proxy){:target="_blank"} 萤火虫
+  - [PandaDNS:](http://dns.sspanda.com/){:target="_blank"} 公共DNS: 115.159.157.26 学者DNS: 115.159.158.38
+  - [XX-Net:](https://github.com/XX-net/XX-Net){:target="_blank"} XX-Net is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions.
+  - [fangqiang:](https://github.com/bannedbook/fanqiang/wiki){:target="_blank"}
+
 ## 优秀App
   - [Postman:](https://www.getpostman.com/){:target="_blank"} Developing APIs is hard, Postman makes it easy.
   - [The Omni Group:](https://www.omnigroup.com/){:target="_blank"} Developing applications exclusively for Mac, iPad, and iPhone.
