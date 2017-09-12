@@ -32,7 +32,7 @@
   - [Firefly:](https://github.com/yinghuocho/firefly-proxy){:target="_blank"} 萤火虫
   - [PandaDNS:](http://dns.sspanda.com/){:target="_blank"} 公共DNS: 115.159.157.26 学者DNS: 115.159.158.38
   - [XX-Net:](https://github.com/XX-net/XX-Net){:target="_blank"} XX-Net is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions.
-  - [fangqiang:](https://github.com/bannedbook/fanqiang/wiki){:target="_blank"}
+  - [fangqiang:](https://github.com/bannedbook/fanqiang/wiki){:target="_blank"} 翻墙（使用请谨慎）
 
 ## 优秀App
   - [Postman:](https://www.getpostman.com/){:target="_blank"} Developing APIs is hard, Postman makes it easy.
