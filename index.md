@@ -26,6 +26,7 @@
   - [Code School:](https://www.codeschool.com/){:target="_blank"} The interactive learning destination for aspiring and experienced developers.
   - [HackerRank:](https://www.hackerrank.com/dashboard/){:target="_blank"} Practice coding.
   - [HackerEarth:](https://www.hackerearth.com/){:target="_blank"} Programming Tutorials and Practice Problems.
+  - [The Computer Language Benchmarks Game:](http://benchmarksgame.alioth.debian.org/){:target="_blank"} The Computer Language Benchmarks Game.
 
 ## 科学上网
   - [Surge:](https://github.com/huanz/surge-hosts){:target="_blank"} hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
