@@ -25,7 +25,8 @@
   - [TIOBE:](https://www.tiobe.com/) The Software Quality Company.
   - [Code School:](https://www.codeschool.com/) The interactive learning destination for aspiring and experienced developers.
   - [HackerRank:](https://www.hackerrank.com/dashboard/) Practice coding.
-  - [HackerEarth:](https://www.hackerearth.com/) Programming Tutorials and Practice Problems
+  - [HackerEarth:](https://www.hackerearth.com/) Programming Tutorials and Practice Problems.
+  - [The Computer Language Benchmarks Game:](http://benchmarksgame.alioth.debian.org//) The Computer Language Benchmarks Game.
 
 ## 科学上网
   - [Surge:](https://github.com/huanz/surge-hosts) hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
