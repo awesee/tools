@@ -24,6 +24,7 @@
 ## Coder
   - [TIOBE:](https://www.tiobe.com/){:target="_blank"} The Software Quality Company.
   - [Open Hub:](https://www.openhub.net/){:target="_blank"} Open Hub, the open source network.
+  - [Git Awards:](http://www.github-awards.com/){:target="_blank"} Discover your ranking on GitHub.
   - [Code School:](https://www.codeschool.com/){:target="_blank"} The interactive learning destination for aspiring and experienced developers.
   - [HackerRank:](https://www.hackerrank.com/dashboard/){:target="_blank"} Practice coding.
   - [HackerEarth:](https://www.hackerearth.com/){:target="_blank"} Programming Tutorials and Practice Problems.
