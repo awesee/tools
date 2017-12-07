@@ -23,6 +23,7 @@
 
 ## Coder
   - [TIOBE:](https://www.tiobe.com/) The Software Quality Company.
+  - [IEEE Spectrum:](https://spectrum.ieee.org/) IEEE Spectrum: Technology, Engineering, and Science News.
   - [Open Hub:](https://www.openhub.net/) Open Hub, the open source network.
   - [Git Awards:](http://www.github-awards.com/) Discover your ranking on GitHub.
   - [Code School:](https://www.codeschool.com/) The interactive learning destination for aspiring and experienced developers.
