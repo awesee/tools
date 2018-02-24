@@ -27,6 +27,7 @@
   - [Open Hub:](https://www.openhub.net/){:target="_blank"} Open Hub, the open source network.
   - [Git Awards:](http://www.git-awards.com/){:target="_blank"} Discover your ranking on GitHub.
   - [Code School:](https://www.codeschool.com/){:target="_blank"} The interactive learning destination for aspiring and experienced developers.
+  - [LeetCode:](https://leetcode.com/){:target="_blank"} Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.
   - [HackerRank:](https://www.hackerrank.com/dashboard/){:target="_blank"} Practice coding.
   - [HackerEarth:](https://www.hackerearth.com/){:target="_blank"} Programming Tutorials and Practice Problems.
   - [The Computer Language Benchmarks Game:](http://benchmarksgame.alioth.debian.org/){:target="_blank"} The Computer Language Benchmarks Game.
