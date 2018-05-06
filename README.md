@@ -19,7 +19,7 @@
   - [百度脑图:](http://naotu.baidu.com/home) 百度脑图，便捷的脑图编辑工具。
 
 ## 视频处理
-  - [腾讯视频:](https://openset.github.io/tx_video.html) 腾讯视频在线播放及下载
+  - [视频播放（VIP）:](https://openset.github.io/video.html) 视频在线播放。
 
 ## Coder
   - [TIOBE:](https://www.tiobe.com/) The Software Quality Company.
