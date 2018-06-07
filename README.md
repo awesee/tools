@@ -30,7 +30,7 @@
   - [LeetCode:](https://leetcode.com/) Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.
   - [HackerRank:](https://www.hackerrank.com/dashboard/) Practice coding.
   - [HackerEarth:](https://www.hackerearth.com/) Programming Tutorials and Practice Problems.
-  - [The Computer Language Benchmarks Game:](http://benchmarksgame.alioth.debian.org/) The Computer Language Benchmarks Game.
+  - [The Computer Language Benchmarks Game:](https://benchmarksgame-team.pages.debian.net/benchmarksgame/) The Computer Language Benchmarks Game.
 
 ## 科学上网
   - [Surge:](https://github.com/huanz/surge-hosts) hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
