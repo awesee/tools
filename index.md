@@ -32,6 +32,7 @@
   - [HackerEarth:](https://www.hackerearth.com/){:target="_blank"} Programming Tutorials and Practice Problems.
   - [The Computer Language Benchmarks Game:](https://benchmarksgame-team.pages.debian.net/benchmarksgame/){:target="_blank"} The Computer Language Benchmarks Game.
   - [Certbot:](https://certbot.eff.org/){:target="_blank"} Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates.
+  - [Favicon Generator](https://realfavicongenerator.net/){:target="_blank"} Check your existing favicon with our online tool and see what can be improved.
 
 ## 科学上网
   - [Surge:](https://github.com/huanz/surge-hosts){:target="_blank"} hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
