@@ -34,6 +34,7 @@
   - [Certbot:](https://certbot.eff.org/){:target="_blank"} Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates.
   - [Favicon Generator:](https://realfavicongenerator.net/){:target="_blank"} Check your existing favicon with our online tool and see what can be improved.
   - [JSON-to-Go:](https://mholt.github.io/json-to-go/){:target="_blank"} Convert JSON to Go struct.
+  - [OKTools:](https://oktools.net/){:target="_blank"} OKTools是一个在线工具网站。提供二维码制作、JSON格式化、Unix时间戳转换、Base64编码、加密解密、图片压缩、IP查询、Hash计算等常用工具。
 
 ## 科学上网
   - [Surge:](https://github.com/huanz/surge-hosts){:target="_blank"} hosts for surge,翻墙,强力去APP广告,google,facebook,twitter,youtube,etc
