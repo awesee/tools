@@ -19,7 +19,7 @@
   - [百度脑图:](http://naotu.baidu.com/home){:target="_blank"} 百度脑图，便捷的脑图编辑工具。
 
 ## 视频处理
-  - [视频播放（VIP）:](https://openset.github.io/video.html){:target="_blank"} 视频在线播放。
+  - [蜜蜂剪辑:](https://beecut.cn/online-video-editor){:target="_blank"} 在线视频剪辑。
 
 ## Coder
   - [TIOBE:](https://www.tiobe.com/){:target="_blank"} The Software Quality Company.
@@ -48,5 +48,3 @@
   - [Postman:](https://www.getpostman.com/){:target="_blank"} Developing APIs is hard, Postman makes it easy.
   - [The Omni Group:](https://www.omnigroup.com/){:target="_blank"} Developing applications exclusively for Mac, iPad, and iPhone.
   - [Cmder:](http://cmder.net/){:target="_blank"} Portable console emulator for Windows.
-
-  - [更多优秀App](http://openset.wang/Best-App/){:target="_blank"}

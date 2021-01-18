@@ -1,1 +1,1 @@
-# &copy;2018 Openset. All rights reserved.
+# &copy;2021 Shuo. All rights reserved.
